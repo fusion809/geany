@@ -1,0 +1,8 @@
+*.xz
+*.gz
+pkg
+src
+geany
+tar
+*.bz2
+
